@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6D040C10-B3A0-4A78-9992-C73CF8979C0E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D2E8A3C-98A2-48AF-BEE4-0A7E1387B37F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flash Chat iOS13/Controllers/WelcomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D2E8A3C-98A2-48AF-BEE4-0A7E1387B37F - b82dbc0d6c506fa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.WelcomeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camilomoreno/Documents/Desarrollo/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "4D2E8A3C-98A2-48AF-BEE4-0A7E1387B37F - 7c03c66f382e3deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSTimer) -&gt; () in Flash_Chat_iOS13.WelcomeViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/camilomoreno/Documents/Desarrollo/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
